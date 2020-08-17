@@ -2,12 +2,17 @@
 title: Welcome BOB
 description: 
 published: true
-date: 2020-08-17T19:47:09.958Z
+date: 2020-08-17T20:15:51.830Z
 tags: 
 editor: markdown
 ---
 
 
+<div class="video-responsive">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/_BDfU4ChBpw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+# Money is fuel
 <div class="video-responsive">
     <iframe width="420" height="315" src="https://www.youtube.com/embed/EVhr-aVRMRk" frameborder="0" allowfullscreen></iframe>
 </div>
