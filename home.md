@@ -2,14 +2,10 @@
 title: Welcome BOB
 description: 
 published: true
-date: 2020-08-17T19:45:50.693Z
+date: 2020-08-17T19:46:12.385Z
 tags: 
 editor: markdown
 ---
-
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVhr-aVRMRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
 
 <div class="video-responsive">
