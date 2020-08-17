@@ -2,12 +2,14 @@
 title: Welcome BOB
 description: 
 published: true
-date: 2020-08-17T16:45:33.283Z
+date: 2020-08-17T17:17:17.746Z
 tags: 
 editor: markdown
 ---
 
 # Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVhr-aVRMRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 CASHSTORY provides a cloud business OS environment that connects Business & IT professionals and their applications throught Data : BOB (your Back Office Bot). 
 
