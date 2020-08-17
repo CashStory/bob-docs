@@ -1,19 +1,19 @@
 ---
-title: Welcome to CASHSTORY OS
+title: Welcome BOB
 description: 
 published: true
-date: 2020-02-18T16:00:23.855Z
+date: 2020-08-17T16:45:33.283Z
 tags: 
+editor: markdown
 ---
 
 # Overview
 
-CASHSTORY provides a cloud business OS environment that connects Business & IT professionals and their applications throught Data Science. 
-Built on top of Nebular, Docker and Kubernetes open source projects, CASHSTORY OS combines advanced interoperability, lightning-fast distribution, and robust security with an agile web management and deployment framework to accelerate digital transformation and innovation.
+CASHSTORY provides a cloud business OS environment that connects Business & IT professionals and their applications throught Data : BOB (your Back Office Bot). 
 
-The mission of CASHSTORY is to organize financial information to make it universally accesisble and usefull.
+Built on top of Nebular, Docker and Kubernetes open source projects, BOB combines advanced interoperability, lightning-fast distribution, and robust security with an agile web management and deployment framework to accelerate digital transformation, innovation, and cashflow growth.
 
-With CASHSTORY OS, you can :
+With BOB, you can :
 - Power your business intelligence software with all your Financial & IT data
 - Ensure any business applications interoperability with the Data Hub module
 - Leverage powerful workspace management functionality
