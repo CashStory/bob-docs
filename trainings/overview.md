@@ -2,15 +2,13 @@
 title: excel-python
 description: Undestand the link between excel and python
 published: true
-date: 2020-08-17T19:31:35.486Z
+date: 2020-08-17T21:12:45.717Z
 tags: 
 editor: markdown
 ---
 
-# Header
-Your content here
+# Work with data
 
-Work with data
 Here below the extract of the wonderful article "Replacing Excel with Python, by Ankit Gandhi
 
 After spending almost a decade with my first love Excel, its time to move on and search for a better half who in thick and thin of my daily tasks is with me and is much better and faster and who can give me a cutting edge in the challenging technological times where new technology is getting ditched by something new at a very rapid pace. The idea is to replicate almost all excel functionalities in Python, be it using a simple filter or a complex task of creating an array of data from the rows and crunching them to get fancy results
