@@ -2,7 +2,7 @@
 title: Welcome BOB
 description: 
 published: true
-date: 2020-08-17T17:21:47.273Z
+date: 2020-08-17T19:45:50.693Z
 tags: 
 editor: markdown
 ---
@@ -10,6 +10,11 @@ editor: markdown
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVhr-aVRMRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
+
+<div class="video-responsive">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/EVhr-aVRMRk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # Overview
 
