@@ -1,0 +1,173 @@
+[
+  {
+    "logo": {
+      "url": ".../../../assets/logo/nexity.png",
+      "name": "testUpload"
+    },
+    "name": "default",
+    "menu": [
+      {
+        "title": "Data Story",
+        "icon": "eye",
+        "sectionId": 1
+      },
+      {
+        "title": "Activity Manager",
+        "icon": "tasks",
+        "sectionId": 2
+      },
+      {
+        "title": "Spreadsheets",
+        "icon": "spreadsheet",
+        "sectionId": 6
+      },
+      {
+        "title": "Files Manager",
+        "icon": "cabinet-filing",
+        "sectionId": 5
+      },
+      {
+        "title": "Documentation",
+        "icon": "book",
+        "sectionId": 3
+      }
+    ],
+    "sections": [
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "hideElements": [],
+            "_id": "5da886a8918b2b1ffscchh4",
+            "authMethod": "toucan_cloud",
+            "name": "Your Data Story",
+            "iframe": true,
+            "urlBg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Toco_Toucan_%28Ramphastos_toco%29_in_Papaya_Tree_%28Carica_papaya%29_%2828997424215%29.jpg/275px-Toco_Toucan_%28Ramphastos_toco%29_in_Papaya_Tree_%28Carica_papaya%29_%2828997424215%29.jpg",
+            "url": "https://cashstory.toucantoco.com/",
+            "autoExpand": true,
+            "login": {
+              "username": "demo@cashstory.com",
+              "password": "cashstory"
+            }
+          }
+        ],
+        "id": 1,
+        "title": "Stories",
+        "description": "Follow your financial & extra-financial performance"
+      },
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "hideElements": [],
+            "_id": "5da900a8918b2b1ffsccdg7",
+            "authMethod": "wekan",
+            "name": "wekanTest",
+            "iframe": true,
+            "urlBg": "https://cdn-images-1.medium.com/max/1500/1*_POsBMENIdbKy873d2zATg.png",
+            "url": "https://task.cashstory.com/",
+            "autoExpand": true,
+            "login": {
+              "username": "",
+              "password": ""
+            }
+          }
+        ],
+        "id": 2,
+        "title": "Bob's tasks",
+        "description": "Manage AI tasks, with our augmented to-do list"
+      },
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "hideElements": [],
+            "_id": "5da846a8978b2v1ffsccdg4",
+            "name": "Reference documentation",
+            "iframe": true,
+            "urlBg": "https://access42.net/IMG/arton479.jpg?1520440320",
+            "url": "https://docs.google.com/document/d/1U8CDv5O1xORf2QWYtDOKb8i1WJ3reXeM2SlkG1b6iis/edit",
+            "autoExpand": true
+          }
+        ],
+        "id": 3,
+        "title": "Docs",
+        "description": "Read the docs"
+      },
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "hideElements": [],
+            "_id": "5da846a8918b2j1ffsccdg4",
+            "name": "Jupyter notebook",
+            "iframe": true,
+            "urlBg": "https://jupyter.org/assets/nav_logo.svg",
+            "url": "https://datafactory.cashstory.com/hub/login",
+            "autoExpand": true
+          }
+        ],
+        "id": 4,
+        "title": "Data factory",
+        "description": "Take back control of your data"
+      },
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "parentId": 4,
+            "name": "File Manager",
+            "iframe": true,
+            "urlBg": "https://cdn02.visitbarcelona.com/files/5531-4253-imagenCAT/BarcelonaLocker-T24-a_O.jpg",
+            "url": "https://demo.filestash.app/files/",
+            "autoExpand": true
+          }
+        ],
+        "id": 5,
+        "title": "AI training",
+        "description": "Transparency and control over our terms"
+      },
+      {
+        "buttons": {
+          "openNewWindow": true,
+          "backTo": true,
+          "expandCollapse": false
+        },
+        "box": [
+          {
+            "hideElements": [],
+            "_id": "5da846a8918b2b1ffsccdg4",
+            "name": "Spreadsheet",
+            "iframe": true,
+            "urlBg": "https://lh3.googleusercontent.com/U_lKaT94BrL3V65JvRHEit5RvasUUUwUPjXM1fEDaYaDz8dw9RoBfIG7Ia9176S6nF9mdGZhLdy3LEop3BdD90wBResT-YU=s688",
+            "url": "https://docs.google.com/spreadsheets/d/1_8xPyfKtdWJzEJchUw1tRCTwDLFGgiO7bKS0Ql452vU/edit#gid=0",
+            "autoExpand": true
+          }
+        ],
+        "id": 6,
+        "title": "CashStory Network",
+        "description": "Transparency and control over our terms"
+      }
+    ]
+  }
+]

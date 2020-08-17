@@ -1,0 +1,75 @@
+{
+    "tmpAccount": false,
+    "picture": null,
+    "phoneNumber": "",
+    "firstName": "Bob",
+    "lastName": "",
+    "role": "",
+    "manager": "false",
+    "userRole": "Other",
+    "reset": false,
+    "workspaceCurrent": {
+      "section": 9,
+      "box": "5db70faabe5ced32ae1ac55f",
+      "id": "5e550ea971c7cd4be225c776"
+    },
+    "workspaces": {
+      "5e550ea971c7cd4be225c776": {
+        "news": {
+          "sources": [],
+          "categories": [],
+          "name": "News",
+          "lang": "en"
+        },
+        "favorites": {
+          "boxes": [],
+          "name": "Favorite"
+        },
+        "name": ""
+      },
+      "5e750ec076c7ad6a4925f9a4": {
+        "news": {
+          "sources": [],
+          "categories": [],
+          "name": "Nouvelles",
+          "lang": "fr"
+        },
+        "favorites": {
+          "boxes": [
+            {
+              "_id": "5d78b7c8ac36816a384c6561",
+              "name": "Tutoriel",
+              "description": "Welcome Bob",
+              "attachement": "https://www.youtube.com/embed/7u7vcrKDphg",
+              "attachement_type": "video",
+              "target": "https://www.youtube.com/watch?v=9QGMz9beIL0",
+              "target_type": "external",
+              "column": 12
+            }
+          ],
+          "name": "Favoris"
+        },
+        "name": "demo"
+      }
+    },
+    "services": {
+      "dkApi": {
+        "authMethod": "dkApi",
+        "login": {
+          "username": "",
+          "password": ""
+        }
+      }
+    },
+    "_id": "5e660f0a81c7ad38c027ca99",
+    "email": "",
+    "company": {
+      "name": "cashstory",
+      "size": null,
+      "whatUse": null,
+      "kind": null
+    },
+    "creatorId": "",
+    "createdAt": "",
+    "updatedAt": ""
+  }

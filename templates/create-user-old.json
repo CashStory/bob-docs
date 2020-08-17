@@ -1,0 +1,24 @@
+[
+  {
+    "email": "coco@martin.com",
+    "password": "test",
+    "firstName": "test-workspacecoco",
+    "lastName": "user",
+    "company": {
+      "name": "CashStory",
+      "size": "1-10people",
+      "whatUse": "Work",
+      "kind": "Financial Services"
+    },
+    "manager": "Yes",
+    "userRole": "Program/Project Management",
+    "emailUrl": "gmail.com",
+    "searchUrl": "google.com",
+    "tmpAccount": false,
+    "phoneNumber": null,
+    "workspace": "test",
+    "workspaces": [
+      "test"
+    ]
+  }
+]
